@@ -1,2 +1,10 @@
 # cocps
-Clash of Clans private server written in python
+Clash of Clans v6.253 private server written in python
+# how2play
+- download server files
+- download [Patched APK](https://download1980.mediafire.com/s0axispvidcg/2q6jp6xp1k56pz4/cocps.apk) 
+- run Main.py and play
+# Authors 
+- Patched client by S.B#9838 
+- OwnHomeData by [XeonDev#1710](https://github.com/1mposs1ble-dev/PyClash/blob/main/Packets/Messages/Server/OwnHomeData.py) 
+- RC4 decrypt and ecncrypt stuff are by Ultracore Team
